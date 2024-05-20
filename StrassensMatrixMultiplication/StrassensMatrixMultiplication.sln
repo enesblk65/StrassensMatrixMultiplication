@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrassensMatrixMultiplication", "StrassensMatrixMultiplication\StrassensMatrixMultiplication.vcxproj", "{C641CA77-2A28-4753-8EDC-A8971D4B56E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C641CA77-2A28-4753-8EDC-A8971D4B56E3}.Debug|x64.ActiveCfg = Debug|x64
+		{C641CA77-2A28-4753-8EDC-A8971D4B56E3}.Debug|x64.Build.0 = Debug|x64
+		{C641CA77-2A28-4753-8EDC-A8971D4B56E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{C641CA77-2A28-4753-8EDC-A8971D4B56E3}.Debug|x86.Build.0 = Debug|Win32
+		{C641CA77-2A28-4753-8EDC-A8971D4B56E3}.Release|x64.ActiveCfg = Release|x64
+		{C641CA77-2A28-4753-8EDC-A8971D4B56E3}.Release|x64.Build.0 = Release|x64
+		{C641CA77-2A28-4753-8EDC-A8971D4B56E3}.Release|x86.ActiveCfg = Release|Win32
+		{C641CA77-2A28-4753-8EDC-A8971D4B56E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2EA1112-807C-4E92-9EA3-FBE6DEFEB99B}
+	EndGlobalSection
+EndGlobal

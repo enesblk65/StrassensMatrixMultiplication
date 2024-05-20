@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\StrassensMatrixMultiplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C641CA77-2A28-4753-8EDC-A8971D4B56E3}|StrassensMatrixMultiplication\\StrassensMatrixMultiplication.vcxproj|C:\\Users\\PC\\source\\repos\\StrassensMatrixMultiplication\\StrassensMatrixMultiplication\\StrassensMatrixMultiplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C641CA77-2A28-4753-8EDC-A8971D4B56E3}|StrassensMatrixMultiplication\\StrassensMatrixMultiplication.vcxproj|solutionrelative:StrassensMatrixMultiplication\\StrassensMatrixMultiplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StrassensMatrixMultiplication.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\StrassensMatrixMultiplication\\StrassensMatrixMultiplication\\StrassensMatrixMultiplication.cpp",
+              "RelativeDocumentMoniker": "StrassensMatrixMultiplication\\StrassensMatrixMultiplication.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\StrassensMatrixMultiplication\\StrassensMatrixMultiplication\\StrassensMatrixMultiplication.cpp",
+              "RelativeToolTip": "StrassensMatrixMultiplication\\StrassensMatrixMultiplication.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T16:54:56.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
